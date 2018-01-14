@@ -1,5 +1,6 @@
 
-<a href="index.html">Home </a>                                                    <a href="NumbersExercise.html">Next</a>         
+<a href="index.html">Home </a>                                                   
+<a href="NumbersExercise.html">Next Page</a>         
 
 
 <h1>Numbers</h1>
