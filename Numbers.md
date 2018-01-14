@@ -1,11 +1,13 @@
 
+<a href="index.html">Home </a>                                                    <a href="NumbersExercise.html">Next</a>         
+
+
 <h1>Numbers</h1>
 
 <h2>Learn German Vocabulary For Numbers </h2>
 
-<p> On this page there is a table below of numbers 1-20 in German. Memorise the table and try to remember as much as you can.</p>
+<p> On this page there is a table below of numbers 1-20 in German. Memorise the table and try to remember as much as you can.Once you have finished click the link to the next page above to complete the corresponding exercise.</p>
 <hr>
-
 
 
 
@@ -90,11 +92,11 @@
     <td>18</td>
     <td>achtzehn</td>
    </tr>
-  tr>
+  <tr>
     <td>19</td>
     <td>neunzehn</td>
    </tr>
-   tr>
+   <tr>
     <td>20</td>
     <td>zwanzig</td>
    </tr>
