@@ -7,7 +7,7 @@
 
 <h2>Learn German Vocabulary For Numbers </h2>
 
-<p> On this page there is a table below of numbers 1-20 in German. Memorise the table and try to remember as much as you can. If you would like to hear how the numbers are pronouced and learn how to use the vocabulary from the table below in a real life situation there is a YouTube video under the table for you attention. Once you have finished click the link to the next page above to complete the corresponding exercise.</p>
+<p> On this page there is a table below of numbers 1-20 in German. Memorise the table and try to remember as much as you can. If you would like to hear how the numbers are pronouced and want to learn how to use the vocabulary from the table below in a real life situation there is a YouTube video under the table for you attention. Once you have finished click the link to the next page above to complete the corresponding exercise.</p>
 <hr>
 
 
