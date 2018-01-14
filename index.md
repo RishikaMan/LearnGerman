@@ -19,9 +19,10 @@
 
 <hr>
 
-<p>Welcome to Learn German. This website is designed to help you to learn some basic/introductory German. The website covers the following topics: Numbers,Greetings and Food. For each topic there is a page dedicated to teaching the vocabulary related to the topic and one page dedicated to testing what you have learnt through a variety of exercises. Whilst each page has links to all other pages on the website it is <strong> strongly </strong> recommended that you follow the following structure: </p>
+<p>Welcome to Learn German. This website is designed to help you to learn some basic/introductory German. The website covers the following topics: Numbers,Greetings and Food. For each topic there is a page dedicated to teaching the vocabulary related to the topic and one page dedicated to testing what you have learnt through a variety of exercises. Each page links to the home page and the next page. The following instructions should help you to navigate through the website: </p>
   
- <p> First go to the <a href="Numbers.html">Numbers</a> page and then complete the corresponding exercise,that is <a href="NumbersExercise.html">Exercise 1</a>.</p>
+ 
+ <p> First go to the <a href="Numbers.html">Numbers</a> page and then there will be a link to the next page for you to click on which you will need to complete the corresponding exercise ,that is <a href="NumbersExercise.html">Exercise 1</a>.</p>
   
 <p> Then go to the <a href="GreetingsandGoodbyes.html">Greetings </a> page and view the animation. Once you have done so complete the corresponding exercise,that is <a href="GreetingsExercise.html">Exercise 2</a>.</p>
 
