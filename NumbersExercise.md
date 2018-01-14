@@ -1,9 +1,11 @@
 
+<a href="index.html">Home</a>  
+<a href="GreetingsandGoodbyes.html">Greetings</a>  
 
 <body>
 <h1> Exercise 1 </h1>
 
-<p> On this page you can test how much of the numbers on the page previously you have learnt. Below there is a memory game in which you need to match up the german words for the numbers shown on the cards correctly. </p>
+<p> On this page you can test how much of the numbers on the page previously you have learnt. Below there is a memory game in which you need to match up the german words for the numbers shown on the cards correctly. When you are finished click on the link to the Greetings page above to move on to the next topic.  </p>
   
   
   <hr>
