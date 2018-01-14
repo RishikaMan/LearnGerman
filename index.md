@@ -7,7 +7,8 @@
 <a href="GreetingsExercise.html">Exercise 2 </a>   
 <a href="Food.html">Food</a>                                 
 <a href="FoodExercise.html">Exercise 3 </a>
-          <a href="FurtherInformation.html">Further Information </a>
+
+<a href="FurtherInformation.html">Further Information </a>
 
 
 
