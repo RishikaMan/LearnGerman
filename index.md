@@ -1,13 +1,11 @@
 
 <h1> Learn German </h1>
 
-<a href="Numbers.html">Numbers</a> 
-<a href="NumbersExercise.html">Exercise 1</a> 
-<a href="GreetingsandGoodbyes.html">Greetings</a> 
-<a href="GreetingsExercise.html">Exercise 2 </a>  
-<a href="Food.html">Food</a>
-<a href="FoodExercise.html">Exercise 3 </a>
+<a href="Numbers.html">Numbers</a> <a href="NumbersExercise.html">Exercise 1</a> <a href="GreetingsandGoodbyes.html">Greetings</a> 
+<a href="GreetingsExercise.html">Exercise 2 </a>  <a href="Food.html">Food</a> <a href="FoodExercise.html">Exercise 3 </a>
 <a href="FurtherInformation.html">Further Information </a>
+
+
 
 <iframe src="https://h5p.org/h5p/embed/168549" width="500" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
