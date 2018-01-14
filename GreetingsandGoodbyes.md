@@ -1,25 +1,20 @@
 
-
-
-
-
-
 <body>
-<h1> Page 4 </h1>
+<h1> Greetings and Goodbyes</h1>
+<h2> Learning German Vocabulary for Greetings and Goodbyes </h2>
+
+
+<p> On this page there is a short animated video <u>below </u> for you to watch in which you will be taught the different ways to greet someone in German as well as being taught different ways to say goodbye to someone. You may pause the video when necessary to help you to learn the phrases. </p>
+
+<hr>
+
+<iframe width="640" height="360" src="https://www.powtoon.com/embed/fSynuUofZ4v/" frameborder="0"></iframe>
+
+
+<hr>
   
   
   
-  <iframe width="854" height="480" src="https://www.youtube.com/embed/9uG4kYZyEHc" frameborder="0" gesture="media" allowfullscreen></iframe>
-
-
-
-
-
-
-<iframe src="https://archive.org/embed/LastWeekendSentence" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-
-<iframe width="800" height="450" src="https://www.powtoon.com/embed/g3kQu1La8Qb/" frameborder="0"></iframe>
 
 
 
