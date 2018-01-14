@@ -1,16 +1,14 @@
-<!DOCTYPE html>
-<html>
 
-<a href="index.html" class="btn">Home</a>
+ <a href="index.html" class="btn">Home</a>
         <a href="Numbers.html" class="btn">Numbers</a>
-        <a href="NumbersExercise.html" class="btn">Numbers Exercise</a>
+        <a href="NumbersExercise.htm" class="btn">Exercise 1</a>
         <a href="GreetingsandGoodbyes.html" class="btn">Greetings</a>
-        <a href="GreetingsExercise.html" class="btn">Greetings Exercise</a>
+        <a href="GreetingsExercise.htm" class="btn">Exercise 2</a>
         <a href="Food.html" class="btn">Food</a>
-       <a href="FoodExercise.html" class="btn">Food Exercise</a>
-       <a href="FurtherInformation.html" class="btn">Further Information</a>
-
-
+        <a href="FoodExercise.htm" class="btn">Exercise 2</a>
+        <a href="FurtherInformation.html" class="btn">Further Information</a>
+        
+        
 <h1> HOMEPAGE </h1>
 <h2>Subtitle</h2>
 <p>This is the first paragraph. It isn't very interesting at the moment.</p>
