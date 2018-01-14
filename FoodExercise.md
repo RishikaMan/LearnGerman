@@ -1,5 +1,7 @@
 
 <a href="index.html"> Home </a>
+<a href="Food.html">Food</a> 
+
 <a href="FurtherInformation.html">Further Information </a>
 
 <h1> Exercise 3 </h1>
