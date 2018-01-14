@@ -1,8 +1,4 @@
  <body>
-    <section class="page-header">
-      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
         <a href="index.html" class="btn">Home</a>
         <a href="Numbers.html" class="btn">Numbers</a>
         <a href="NumbersExercise.html" class="btn">Exercise 1</a>
