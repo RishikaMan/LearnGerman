@@ -1,55 +1,37 @@
 
-<ul class="breadcrumb">
-  <li>Home</li>
-</ul>
+ <a href="index.html" class="btn">Home</a>
+ <a href="Numbers.html" class="btn">Numbers</a>
+ <a href="NumbersExercise.html" class="btn">Numbers Exercise</a>
+ <a href="GreetingsandGoodbyes.html" class="btn">Greetings</a>
+ <a href="GreetingsExercise.html" class="btn">Greetings Exercise</a>
+ <a href="Food.html" class="btn">Food</a>
+ <a href="FoodExercise.html" class="btn">Food Exercise</a>
+ <a href="FurtherInformation.html" class="btn">Further Information</a>
 
-<h1> Language Learning with Me </h1>
-<h2>Section One: What you can learn here.</h2>
+
+
+<h1> HOMEPAGE </h1>
+<h2>Subtitle</h2>
 <p>This is the first paragraph. It isn't very interesting at the moment.</p>
 
 <hr>
-<h2>Some HTML Formatting Stuff</h2>
-<h3>Lists</h3>
-<h4> Ordered lists have numbers</h4>
-<ol>
-  <li>Item 1</li>
-  <li>item 2</li>
-</ol>
-
-<h4> UnOrdered lists have bullets</h4>
-<ul>
-  <li>Item 1</li>
-  <li>item 2</li>
-</ul>
 
 <hr>
 
 <h3> Text styles </h3>
 <p> In this paragraph I am going to <u>underline this</u>, and then this is <strong> very important </strong>, and then this is <em>italicised for effect</em>. For example, <em> Oh No!</em> he cried. </p>
 
-<hr>
-<h3>Links and Images</h3>
-<p>First I'm going to link to <a href="http://www.bbc.co.uk/news">my website</a></p>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Great_Britain_%28English_version%29.png" />
-
-<img src="img/cat.jpeg"  style="width:50%;"/>
 
 
-<table>
-  <tr>
-    <th>English Words</th>
-    <th>French Words</th>
-    <th>German Words</th>
-  </tr>
-  <tr>
-    <td>Table</td>
-    <td>La table</td>
-    <td>Der Tisch</td>
-  </tr>
+
   
 
-</table>
+
+
+
+
+
+
 
 
 
