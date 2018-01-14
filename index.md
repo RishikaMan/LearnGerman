@@ -1,4 +1,3 @@
-<head>
 <a href="index.html" class="btn">Home</a>
         <a href="Numbers.html" class="btn">Numbers</a>
         <a href="NumbersExercise.html" class="btn">Numbers Exercise</a>
